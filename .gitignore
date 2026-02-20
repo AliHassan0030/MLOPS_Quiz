@@ -1,0 +1,10 @@
+# Gitignore file
+
+# Ignore everything
+*
+
+# Except for specific file types
+!*.py
+!*.ipynb
+!*.txt
+!Makefile
